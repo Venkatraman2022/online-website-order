@@ -122,7 +122,8 @@ class _WebsiteCartState extends State<WebsiteCart> {
                                          });
                                        }),
                                  ],
-                               )),
+                               ),
+                           ),
                            Expanded(
                              flex: 1,
                              child: IconButton(
